@@ -1,6 +1,6 @@
 ## Ola eu sou Alisson Abilio!
 
-Profissional com foco em cloud/DevOps buscando inovação e eficiência. Atualmente, possuo a certificação AWS Solutions Architect e estou determinado a conquistar mais certificações relacionadas. Meu objetivo é me destacar como especialista na área, contribuindo com soluções e práticas de última geração para as empresas. Estou sempre disposto a aprender e me adaptar às mudanças tecnológicas, buscando excelência em minha carreira.
+As a cloud/DevOps professional with a focus on innovation and efficiency, I am currently AWS Solutions Architect certified and committed to attaining more related certifications. My goal is to excel as an expert in the field, contributing cutting-edge solutions and practices to companies. I am always eager to learn and adapt to technological changes, striving for excellence in my career
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aws-logo" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
